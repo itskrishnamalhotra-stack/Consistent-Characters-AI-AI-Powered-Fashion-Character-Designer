@@ -1,3 +1,5 @@
+This project was built in 2024
+
 you should change the stable-diffusion-v1-5/stable-diffusion-v1-5 model with a better one as i used a difrent model
 
 Description
